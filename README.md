@@ -2,6 +2,10 @@
 
 ## Growing Front-end Developer | Passionate about building interfaces and turning ideas into code with TypeScript and React.
 
+## My social media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-lima-/))
+
 ### My technologies
 
 <div style="display: inline_block">
